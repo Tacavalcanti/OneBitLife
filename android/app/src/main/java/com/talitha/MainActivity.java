@@ -1,4 +1,4 @@
-package com.onebitlife;
+package com.talitha;
 
 import android.os.Build;
 import android.os.Bundle;

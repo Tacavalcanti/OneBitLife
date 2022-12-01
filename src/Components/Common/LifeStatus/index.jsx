@@ -51,12 +51,12 @@ const style = StyleSheet.create({
         width: 100,
         marginTop: 50,
         marginLeft: 5,
-        position:"absolute"
+        position:"absolute",
     },
     financasAnimacao: {
         width: 100,
         marginTop: 50,
         marginLeft: 95,
-        position:"absolute"
+        position:"absolute",
     },
 })

@@ -4,5 +4,5 @@ import HomePage from "./HomePage";
 
 export default function Routes(){
    const[ShowHome, setShowHome]=useState("false");
-   return <>{ShowHome ==="true" ? <HomePage/> : <AllPages/>}</>
+   return <>{ShowHome ==="true" ? <HomePage/> : <AllPages/>}</>;
 }

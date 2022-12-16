@@ -31,7 +31,7 @@ export default function SelecHabit({habit,HabitInput}){
                 data={data}
                 search={false}
                 onSelect = {()=>{
-                    habitInput(selected);
+                    HabitInput(selected);
                 }}
                 placeholder={selected}
                 boxStyles={styles.boxStyle}
